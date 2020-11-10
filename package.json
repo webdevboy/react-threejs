@@ -1,6 +1,6 @@
 {
   "name": "threejs-project",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Test project",
   "main": "index.js",
   "scripts": {
