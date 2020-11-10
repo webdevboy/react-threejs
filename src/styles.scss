@@ -1,0 +1,23 @@
+@import '~bulma/bulma.sass';
+
+.login-container {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#mesh-container {
+  height: 100vh;
+}
+
+#info {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.error-block {
+  color: red;
+}
+
